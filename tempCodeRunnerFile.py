@@ -1,1 +1,1 @@
-type(data1)
+name
